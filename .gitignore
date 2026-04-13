@@ -23,7 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
-.env*.local
+echo "ANTHROPIC_API_KEY=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"
+> .env*.local
 
 # vercel
 .vercel
